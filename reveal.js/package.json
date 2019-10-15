@@ -1,5 +1,5 @@
 {
-  "name": "@types/reveal.js",
+  "name": "@polvtypes/reveal.js",
   "version": "3.8.0",
   "description": "TypeScript definition for reveal.js",
   "main": "src/index.js",
@@ -13,5 +13,9 @@
     "types"
   ],
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patarapolw/polvtypes.git"
+  }
 }

@@ -18,9 +18,11 @@
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
   "license": "MIT",
   "devDependencies": {
+    "vue": "^2.6.10",
     "vue-property-decorator": "^8.2.2"
   },
-  "dependencies": {
-    "vue": "^2.6.10"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patarapolw/polvtypes.git"
   }
 }

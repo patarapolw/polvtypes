@@ -15,5 +15,9 @@
     "chinese-to-pinyin"
   ],
   "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patarapolw/polvtypes.git"
+  }
 }
