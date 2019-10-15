@@ -1,0 +1,17 @@
+{
+  "name": "@types/reveal.js",
+  "version": "3.8.0",
+  "description": "TypeScript definition for reveal.js",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reveal.js",
+    "reveal",
+    "types"
+  ],
+  "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
+  "license": "MIT"
+}

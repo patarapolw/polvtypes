@@ -1,0 +1,26 @@
+{
+  "name": "@polvtypes/eagle.js",
+  "version": "0.6.0",
+  "description": "TypeScript definition for eagle.js",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eagle.js",
+    "eagle",
+    "types"
+  ],
+  "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "vue-property-decorator": "^8.2.2"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}

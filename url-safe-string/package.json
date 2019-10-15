@@ -1,0 +1,19 @@
+{
+  "name": "@polvtypes/url-safe-string",
+  "version": "1.0.0",
+  "description": "TypeScript definition for url-safe-string",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url-safe-string",
+    "types"
+  ],
+  "author": "Pacharapol Withayasakpunt <patarapolw@gmail.com> (https://polvcode.dev)",
+  "license": "MIT"
+}

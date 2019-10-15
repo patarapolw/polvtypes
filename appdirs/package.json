@@ -1,0 +1,17 @@
+{
+  "name": "@polvtypes/appdirs",
+  "version": "1.1.0",
+  "description": "TypeScript definition for appdirs",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "appdirs",
+    "types"
+  ],
+  "author": "Pacharapol Withayasakpunt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patarapolw/types-appdirs.git"
+  }
+}
